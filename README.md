@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <span style="color:#007acc">Sujan HG</span></h1>
+<h3 align="center">Aspiring Data Analyst | AI Developer | Machine Learning Enthusiast</h3>
 
-<!--
-**Sujanhg2003/Sujanhg2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:sujanhgs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sujanhg" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sujanhg2003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+🎓 **Graduated  B.Tech in Data Science** at Srinivas University  
+🚀 **Data Science Intern** @ NIT Karnataka  
+🧠 Passionate about solving real-world problems using **data, AI**, and **automation**  
+💡 Curious mind driven by insight, impact, and innovation  
+
+---
+
+## 🛠️ Skills & Tools
+
+### 📊 Data Analytics
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### 🐍 Python Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF4088?style=flat-square&logo=python)
+![Seaborn](https://img.shields.io/badge/Seaborn-49a2a2?style=flat-square)
+
+### 🤖 ML, AI & CV
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### 🧠 NLP & GenAI
+![NLTK](https://img.shields.io/badge/NLTK-9F9F9F?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-1A73E8?style=flat-square)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔬 [AI-Based Microscopic Image Analysis](https://github.com/Sujanhg2003/AI-Enhanced-Metal-coating-microscopic-Image-analysis)
+📍 *NIT Karnataka*  
+Deep learning system using **U-Net + TensorFlow** for segmenting microscopic metal coating images  
+✅ 86% Accuracy | 79% IoU | ⏱️ Annotation time reduced by 70%
+
+---
+
+### ❤️‍🩹 Facial-Based Human Vital Detection
+📍 *Srinivas University*  
+Real-time physiological signal extraction from facial skin tone  
+🎥 Processed 900+ video frames per session | 🩺 Achieved 92% accuracy
+
+---
+
+### 📈 [EV Market Dashboard with Power BI](https://github.com/Sujanhg2003/Electric-Vehicle-Market-size-Analysis)  
+📊 Analyzed market share, trends, and adoption patterns of EVs  
+🚗 Tesla leads the market | 60% BEV vs PHEV adoption
+
+---
+
+### 🧠 [Market Research Multi-Agent AI System](https://github.com/Sujanhg2003/Market-Research-Use-Case-Generation-Multi-Ai-Agent-System)  
+Built using **LangChain + Gemini Pro LLM**  
+⚙️ Generates real-time insights and competitive reports  
+⏱️ Results under 2 minutes | 📉 60% manual time saved
+
+---
+
+## 📜 Certifications
+
+- 🧠 **Azure AI Fundamentals** – Microsoft, 2024  
+- 💡 **Career Essentials in Generative AI** – Microsoft & LinkedIn, 2024  
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech in Data Science**  
+Srinivas University, Mangalore  
+📈 CGPA: 8.67 | 📅 2021–2025
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:sujanhgs@gmail.com"><strong>📬 Email:</strong> sujanhgs@gmail.com</a><br>
+  <a href="https://www.linkedin.com/in/sujanhg"><strong>🔗 LinkedIn:</strong> linkedin.com/in/sujanhg</a><br>
+  <a href="https://github.com/Sujanhg2003"><strong>💻 GitHub:</strong> github.com/Sujanhg2003</a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Code it. Clean it. Analyze it. Visualize it. Tell the story.”</em>
+</p>
