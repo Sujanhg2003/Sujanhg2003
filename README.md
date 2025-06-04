@@ -60,7 +60,7 @@ Deep learning system using **U-Net + TensorFlow** for segmenting microscopic met
 
 ---
 
-### ❤️‍🩹 Facial-Based Human Vital Detection
+### ❤️‍🩹 [Facial-Based Human Vital Detection](https://github.com/Sujanhg2003/AI-Enhanced-Human-vital-detection-using-facial-color-variations)
 📍 *Srinivas University*  
 Real-time physiological signal extraction from facial skin tone  
 🎥 Processed 900+ video frames per session | 🩺 Achieved 92% accuracy
