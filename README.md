@@ -67,16 +67,38 @@ Real-time physiological signal extraction from facial skin tone
 
 ---
 
-### 📈 [EV Market Dashboard with Power BI](https://github.com/Sujanhg2003/Electric-Vehicle-Market-size-Analysis)  
-📊 Analyzed market share, trends, and adoption patterns of EVs  
-🚗 Tesla leads the market | 60% BEV vs PHEV adoption
-
----
-
 ### 🧠 [Market Research Multi-Agent AI System](https://github.com/Sujanhg2003/Market-Research-Use-Case-Generation-Multi-Ai-Agent-System)  
 Built using **LangChain + Gemini Pro LLM**  
 ⚙️ Generates real-time insights and competitive reports  
 ⏱️ Results under 2 minutes | 📉 60% manual time saved
+
+
+---
+
+### 📈 [Electric Vehicle Market Size Analysis](https://github.com/Sujanhg2003/Electric-Vehicle-Market-size-Analysis)
+📍 *Srinivas University*  
+Analyzed EV registrations, market trends, and brand performance using a rich dataset.  
+📊 Interactive 2-page Power BI dashboard | 📉 Identified BEV adoption 60% higher than PHEV  
+🏆 Tesla ranked #1 with 25%+ market share  
+🧠 Tools: Excel, Power BI
+
+---
+
+### 🏬 [Walmart Inventory Optimization Analysis](https://github.com/Sujanhg2003/Inventory-Optimization-Data-analysis-on-WallMart-Data)
+📍 *Srinivas University*  
+Optimized inventory management by analyzing stock levels and SKU turnover.  
+📉 Reduced holding costs by 15–20% | ⏰ Lowered out-of-stock rate by 12%  
+🧠 Tools: Python (Pandas, Matplotlib), Excel
+
+---
+
+### 💹 [Market Crashes Trend Analysis](https://github.com/Sujanhg2003/Market-Crashes-Analysis)
+📍 *Srinivas University*  
+Studied 27 years of SENSEX data to detect historical market crashes and risk zones.  
+⚠️ 255 crash alerts identified | 📉 Worst daily return: -13.15%  
+📈 Volatility spike tracking and drawdown analysis  
+🧠 Tools: Excel, Python
+
 
 ---
 
