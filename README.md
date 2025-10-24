@@ -113,7 +113,7 @@ Studied 27 years of SENSEX data to detect historical market crashes and risk zon
 
 🎓 **B.Tech in Data Science**  
 Srinivas University, Mangalore  
-📈 CGPA: 8.67 | 📅 2021–2025
+📈 CGPA: 8.67 |
 
 ---
 
